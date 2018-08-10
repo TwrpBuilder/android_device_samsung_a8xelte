@@ -20,4 +20,4 @@ $(call inherit-product, build/target/product/full.mk)
 PRODUCT_NAME := omni_a8xelte
 PRODUCT_DEVICE := a8xelte
 PRODUCT_BRAND := Samsung
-PRODUCT_MODEL := a8xelte
+PRODUCT_MODEL := SM-A810F
